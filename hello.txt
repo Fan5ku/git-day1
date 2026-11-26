@@ -3,3 +3,4 @@
 Текст из main
 Текст из feature-a
 
+Текст из feature-b
