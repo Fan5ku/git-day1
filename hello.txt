@@ -13,3 +13,5 @@
 
 Текст для коммита rebase
 Первый коммит в feature-rebase
+
+Тест stash
