@@ -1,2 +1,6 @@
+
 *.log
 secret.txt
+
+config.env
+
