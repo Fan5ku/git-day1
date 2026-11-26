@@ -15,3 +15,5 @@
 Первый коммит в feature-rebase
 
 Тест stash
+
+Работа с GitExtension
