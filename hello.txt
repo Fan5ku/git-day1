@@ -17,3 +17,5 @@
 Тест stash
 
 Работа с GitExtension
+
+2 Попытка
